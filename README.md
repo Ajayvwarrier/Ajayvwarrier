@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec28c94088f4582f19d3a1865e9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayvwarrier&label=Profile%20views&color=0e75b6&style=flat" alt="ajayvwarrier" /> </p>
+
 
 - 🔭 I’m currently working on **E-commerce-application**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **warrierajay99@gmail.com**
 
-- ⚡ Fun fact **** I Learn Little Fast But I Will achieve** the Goal****
+- ⚡ Fun fact **** I Learn Little Fast But I Will achieve the Goal****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +24,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayvwarrier&show_icons=true&locale=en&layout=compact" alt="ajayvwarrier" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayvwarrier&show_icons=true&locale=en" alt="ajayvwarrier" /></p>
+
 
